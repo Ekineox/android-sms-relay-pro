@@ -2,7 +2,7 @@
     <string name="address_is">%1$s</string>
     <string name="api_url">API URL</string>
     <string name="api_url_private_token_credentials_etc">API URL, private token, credentials, etc.</string>
-    <string name="app_name">SMS Gateway</string>
+    <string name="app_name">MY SMS Gateway</string>
     <string name="app_version_build">App version (build)</string>
     <string name="battery_optimization">Battery optimization</string>
     <string name="battery_optimization_already_disabled">Battery optimization already disabled</string>
